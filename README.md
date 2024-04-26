@@ -1,2 +1,2 @@
 # airplane
-Simple tests for the plane class.
+Simple tests for plane class using pytest.
